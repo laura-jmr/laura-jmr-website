@@ -1,0 +1,31 @@
+#skills-frontend {
+    background-color: rgb(180, 180, 180);
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+}
+
+#skills-backend {
+    background-color: rgb(65, 65, 65);
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+}
+
+#skills-design {
+    background-color: rgb(130, 130, 130);
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    right: 25%;
+    top: 25%;
+    border-radius: 30%;
+}
+
+.skills-h2 {
+    color: rgb(226, 226, 226);
+    text-align: center;
+    padding-top: 10px;
+}

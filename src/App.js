@@ -8,13 +8,13 @@ import Contacts from './pages/Contacts';
 
 function App() {
   return (
-    <div>
+    <>
       <Landing/>
       <Projects/>
       <Resume/>
       <Skills/>
       <Contacts/>
-    </div>
+    </>
   );
 }
 

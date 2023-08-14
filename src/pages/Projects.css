@@ -1,0 +1,34 @@
+#page-projects {
+    
+}
+
+#projects-container {
+    background-color: rgb(40, 40, 40);
+    width: 70%;
+    height: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#projects-container-ul {
+    list-style: none;
+    background-color: rgb(24, 24, 24);
+    color: rgb(220, 220, 220);
+    height: 100%;
+    width: fit-content;
+    text-align: end;
+}
+
+#projects-container-ul li {
+    background-color: rgb(11, 11, 11);
+    height: 50%;
+}
+
+#projects-container-ul h2 {
+    height: fit-content;
+    transform: translate(-50%, 100px) rotate(-90deg); 
+    transform-origin: bottom;
+    background-color: rgb(145, 145, 145);
+}

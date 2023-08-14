@@ -1,0 +1,10 @@
+
+
+#landing-laura-image {
+    height: 50%;
+    position: absolute;
+    transform: rotate(90deg);
+    filter: grayscale(100%);
+    bottom: 100px;
+    left: 200px;
+}
