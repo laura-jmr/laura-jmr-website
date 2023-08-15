@@ -19,6 +19,7 @@ body {
     min-width: 425px;
 
     overscroll-behavior: none;
+    background-image: url('../public/assets/pawel-czerwinski-BPrk2cOoCq8-unsplash.jpg');
 }
 
 .page {
